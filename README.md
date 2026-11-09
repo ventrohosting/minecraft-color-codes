@@ -2,7 +2,7 @@
 
 Alle Minecraft Farbcodes mit § und &, Hexfarben ab 1.16 und Farbverlauf: Text gestalten, Vorschau sehen und für MOTD, Plugins oder tellraw kopieren.
 
-**Online nutzen:** [Minecraft Farbcodes und Hex-Generator](https://ventrohosting.com/tools/minecraft-farbcodes) · Demo: https://dannytheone.github.io/minecraft-color-codes/
+**Online nutzen:** [Minecraft Farbcodes und Hex-Generator](https://ventrohosting.com/tools/minecraft-farbcodes) · Demo: https://ventrohosting.github.io/minecraft-color-codes/
 
 ## Funktionen
 
